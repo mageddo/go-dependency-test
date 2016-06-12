@@ -2,6 +2,6 @@ package utils
 
 import "fmt"
 
-func version(){
+func Version(){
 	fmt.Println("1.0")
 }
