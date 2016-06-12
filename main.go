@@ -1,6 +1,6 @@
 package main
 
-import "utils"
+import "github.com/mageddo/go-dependency-test/utils"
 
 func main(){
 	utils.Version()
